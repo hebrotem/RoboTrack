@@ -1,1 +1,7 @@
-# RoboTrack
+# RoboTrack: A Large-Scale Dataset for Iconic Robot Tracking
+### Goal
+RoboTrack: A Large-Scale Dataset for Iconic Robot Tracking is a project aimed at creating a comprehensive dataset for the study and development of algorithms for iconic robot tracking. The dataset will contain high-quality images and videos of iconic robots, such as ASIMO, Boston Dynamics' robots, and other humanoid robots, captured from different perspectives and under varying conditions. The data will be annotated with information about the location and orientation of the robots in each frame, providing a valuable resource for researchers and practitioners working in the field of computer vision and robotics.
+
+The goal of this project is to support the advancement of robotic systems by providing a diverse and challenging dataset for the evaluation of iconic robot tracking algorithms. The dataset will enable researchers to benchmark the performance of different tracking methods and to develop new algorithms that are capable of accurately and robustly tracking iconic robots in real-world environments. Furthermore, the dataset will provide a valuable resource for training and evaluating deep learning algorithms, as well as for the development of new robotic systems that rely on accurate tracking of their components.
+
+Overall, the RoboTrack project is expected to have a significant impact on the development of advanced robotic systems and to facilitate further research in the field of iconic robot tracking. The creation of a large-scale, high-quality dataset of this nature will provide a valuable resource for the robotics community and will help to advance the state of the art in this field.
